@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1FlwYugHlacD0Wxxve4ofpKqkaV0x02RJ">
+	<name>Ocean Change Indicators - G4G2021</name>
+	<gx:CascadingStyle kml:id="__managed_style_273DD8AB921DC1352B50">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_188B1594991DC1352B50">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0FC7FDDA9F1DC1352B50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_188B1594991DC1352B50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_273DD8AB921DC1352B50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_056F81A1771DC1352B4F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_15534F8B921DC1352B4F</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2EE8CC1CF51DC1352B4F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2EE8CC1CF51DC1352B4F">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_03485AE3D31DC1352B4D">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_19512D92C31DC1352B4C">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0C342EB5791DC1352B4C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_19512D92C31DC1352B4C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_03485AE3D31DC1352B4D</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1040C594561DC42522DA">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0CF6F47C151DC3971AB2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_13F6ED2F871DC3971AB2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2E14080EB01DC3971AB2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0825375A031DC1352B49">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0B4879293C1DC1352B48">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_12D2B408FF1DC1352B48</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0825375A031DC1352B49</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_17FA24E22B1DC1352B4B">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_12D2B408FF1DC1352B48">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_24FAB6323B1DC1352B4B">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_260125812C1DC42522DA">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0346A013C21DC42522DA">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1040C594561DC42522DA</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_260125812C1DC42522DA</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2E14080EB01DC3971AB2">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Ocean Drain</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500|Roboto+Slab|Material+Icons" type="text/css" />
+        <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.blue_grey-blue.min.css" />
+        <link rel="stylesheet" href="https://storage.googleapis.com/geoexplorations/scripts/egewexploreRadio0625.css" type="text/css" />
+    </head>
+    <body>
+        <div id="container">
+            <main class="panelMain">
+                <div class="mediaContain">
+                    <div class="slideshow-container">
+<!--First media in Carousel--Best Image Aspect Ratio 3:2 Replace Image Source (src) bellow-->
+                        <div class="mySlides fade" id="od00">
+                            <img class="image"src="https://storage.googleapis.com/geteachkml4/geteachg4g21/oceandrain/OceanDrain000Sm.jpg">
+                            <div class="captionDiv">
+                                <div class="caption" >Ocean Drain (with gray bathymetry)</div>
+                            </div>
+                        </div>
+                        <div class="mySlides fade" id="od70">
+                            <img class="image"src="https://storage.googleapis.com/geteachkml4/geteachg4g21/oceandrain/OceanDrain070Sm.jpg">
+                            <div class="captionDiv">
+                                <div class="caption" >Ocean Drain (with gray bathymetry)</div>
+                            </div>
+                        </div>
+                        <div class="mySlides fade" id="od140">
+                            <img class="image"src="https://storage.googleapis.com/geteachkml4/geteachg4g21/oceandrain/OceanDrain140Sm.jpg">
+                            <div class="captionDiv">
+                                <div class="caption" >Ocean Drain (with gray bathymetry)</div>
+                            </div>
+                        </div>
+                        <div class="mySlides fade" id="od210">
+                            <img class="image"src="https://storage.googleapis.com/geteachkml4/geteachg4g21/oceandrain/OceanDrain210Sm.jpg">
+                            <div class="captionDiv">
+                                <div class="caption" >Ocean Drain (with gray bathymetry)</div>
+                            </div>
+                        </div>
+                        <div class="mySlides fade" id="od280">
+                            <img class="image"src="https://storage.googleapis.com/geteachkml4/geteachg4g21/oceandrain/OceanDrain280Sm.jpg">
+                            <div class="captionDiv">
+                                <div class="caption" >Ocean Drain (with gray bathymetry)</div>
+                            </div>
+                        </div>
+                        <div class="mySlides fade" id="od359">
+                            <img class="image"src="https://storage.googleapis.com/geteachkml4/geteachg4g21/oceandrain/OceanDrain359Sm.jpg">
+                            <div class="captionDiv">
+                                <div class="caption" >Ocean Drain (with gray bathymetry)</div>
+                            </div>
+                        </div>
+                        <a class="prev minusSlidesClass">&#10094;</a>
+                        <a class="next plusSlidesClass">&#10095;</a>
+                    </div>
+                </div>
+                <div class="content" id="content">
+                    <div class="title">
+                        Climate Change Indicators: Oceans
+                    </div>
+                    <div class="description">
+                        <p class="text" style="margin-top:16px;">Covering about 70 percent of the Earth’s surface, the world’s oceans have a two-way relationship with weather and climate. The oceans influence the weather on local to global scales, while changes in climate can fundamentally alter many properties of the oceans.</p>
+						<p class="text"><i>Credit:</i></br>Information: <a href="https://www.epa.gov/climate-indicators/oceans" target="_blank">United States Environmental Protection Agency</a></br>Earth Overlays: <a href="https://sos.noaa.gov/catalog/datasets/ocean-drain-with-gray-bathymetry/" target="_blank">Walter Smith, NOAA</a></p>
+                    </div>
+                 </div>
+<!--Best image height for footer is 24px with a max-width of 145px-->
+<!--If you don't want the footer is it best to delete the html within the logoLeft/LogoRight Div-->
+                <div class="footer">
+                    <div class="logoLeft">
+                        <a href="https://twitter.com/geteach" target="_blank">
+                            <img src="https://storage.googleapis.com/geteachkml4/logogeteachtemp.png" >
+                        </a>
+                    </div>
+                    <div class="layerLinks" id="layerLinks" style="display:none">
+                    </div>
+                    <div class="logoRight" style="display:block">
+                        <a href='#05EEA9A8341DC060AED2;show' class='showlink' id='05EEA9A8341DC060AED2Show' name='oceandrain00Show'></a>
+                        <a href='#05EEA9A8341DC060AED2;hide' class='hidelink drainHide' id='05EEA9A8341DC060AED2Hide' name='oceandrain00Hide'></a>
+                        <a href='#00D4D306B01DC061D80A;show' class='showlink' id='00D4D306B01DC061D80AShow' name='oceandrain70Show'></a>
+                        <a href='#00D4D306B01DC061D80A;hide' class='hidelink drainHide' id='00D4D306B01DC061D80AHide' name='oceandrain70Hide'></a>
+                        <a href='#05B6FE450B1DC062E1EF;show' class='showlink' id='05B6FE450B1DC062E1EFShow' name='oceandrain140Show'></a>
+                        <a href='#05B6FE450B1DC062E1EF;hide' class='hidelink drainHide' id='05B6FE450B1DC062E1EFHide' name='oceandrain140Hide'></a>
+                        <a href='#0F927723AB1DC0639772;show' class='showlink' id='0F927723AB1DC0639772Show' name='oceandrain210Show'></a>
+                        <a href='#0F927723AB1DC0639772;hide' class='hidelink drainHide' id='0F927723AB1DC0639772Hide' name='oceandrain210Hide'></a>
+                        <a href='#0C7CD15EE81DC06460F4;show' class='showlink' id='0C7CD15EE81DC06460F4Show' name='oceandrain280Show'></a>
+                        <a href='#0C7CD15EE81DC06460F4;hide' class='hidelink drainHide' id='0C7CD15EE81DC06460F4Hide' name='oceandrain280Hide'></a>
+                        <a href='#0725766DC31DC0654C5F;show' class='showlink' id='0725766DC31DC0654C5FShow' name='oceandrain359Show'></a>
+                        <a href='#0725766DC31DC0654C5F;hide' class='hidelink drainHide' id='0725766DC31DC0654C5FHide' name='oceandrain359Hide'></a>
+                        <a href='#0596BEE8781DC067AAF5;show' class='showlink' id='0596BEE8781DC067AAF5Show' name='co2flux1900Show'></a>
+                        <a href='#0596BEE8781DC067AAF5;hide' class='hidelink' id='0596BEE8781DC067AAF5Hide' name='co2flux1900Hide'></a>
+                        <a href='#0D8602A8B01DC0686634;show' class='showlink' id='0D8602A8B01DC0686634Show' name='co2flux1940Show'></a>
+                        <a href='#0D8602A8B01DC0686634;hide' class='hidelink' id='0D8602A8B01DC0686634Hide' name='co2flux1940Hide'></a>
+                        <a href='#00D8B2ED301DC068E084;show' class='showlink' id='00D8B2ED301DC068E084Show' name='co2flux1980Show'></a>
+                        <a href='#00D8B2ED301DC068E084;hide' class='hidelink' id='00D8B2ED301DC068E084Hide' name='co2flux1980Hide'></a>
+                        <a href='#0716AABBAC1DC06957AE;show' class='showlink' id='0716AABBAC1DC06957AEShow' name='co2flux2020Show'></a>
+                        <a href='#0716AABBAC1DC06957AE;hide' class='hidelink' id='0716AABBAC1DC06957AEHide' name='co2flux2020Hide'></a>
+                        <a href='#0D544130CD1DC06D013B;show' class='showlink' id='0D544130CD1DC06D013BShow' name='oceanHeat1960Show'></a>
+                        <a href='#0D544130CD1DC06D013B;hide' class='hidelink' id='0D544130CD1DC06D013BHide' name='oceanHeat1960Hide'></a>
+                        <a href='#00708249C31DC06EA3B3;show' class='showlink' id='00708249C31DC06EA3B3Show' name='oceanHeat1980Show'></a>
+                        <a href='#00708249C31DC06EA3B3;hide' class='hidelink' id='00708249C31DC06EA3B3Hide' name='oceanHeat1980Hide'></a>
+                        <a href='#0C24206D4D1DC06F5D92;show' class='showlink' id='0C24206D4D1DC06F5D92Show' name='oceanHeat2000Show'></a>
+                        <a href='#0C24206D4D1DC06F5D92;hide' class='hidelink' id='0C24206D4D1DC06F5D92Hide' name='oceanHeat2000Hide'></a>
+                        <a href='#06BE8162931DC06FFA3D;show' class='showlink' id='06BE8162931DC06FFA3DShow' name='oceanHeat2011Show'></a>
+                        <a href='#06BE8162931DC06FFA3D;hide' class='hidelink' id='06BE8162931DC06FFA3DHide' name='oceanHeat2011Hide'></a>
+                        <a href='#05CAC442C71DC071C9F7;show' class='showlink' id='05CAC442C71DC071C9F7Show' name='sst1985Show'></a>
+                        <a href='#05CAC442C71DC071C9F7;hide' class='hidelink' id='05CAC442C71DC071C9F7Hide' name='sst1985Hide'></a>
+                        <a href='#06BCFBC3DC1DC0727942;show' class='showlink' id='06BCFBC3DC1DC0727942Show' name='sst1995Show'></a>
+                        <a href='#06BCFBC3DC1DC0727942;hide' class='hidelink' id='06BCFBC3DC1DC0727942Hide' name='sst1995Hide'></a>
+                        <a href='#0F64F33B3B1DC07302B8;show' class='showlink' id='0F64F33B3B1DC07302B8Show' name='sst2005Show'></a>
+                        <a href='#0F64F33B3B1DC07302B8;hide' class='hidelink' id='0F64F33B3B1DC07302B8Hide' name='sst2005Hide'></a>
+                        <a href='#03A1ABD0001DC073A969;show' class='showlink' id='03A1ABD0001DC073A969Show' name='sst2015Show'></a>
+                        <a href='#03A1ABD0001DC073A969;hide' class='hidelink' id='03A1ABD0001DC073A969Hide' name='sst2015Hide'></a>
+                        <a href='#0A11A7EF9A1DBFE97104;show' class='showlink' id='0A11A7EF9A1DBFE97104Show' name='seachangeShow'></a>
+                        <a href='#0A11A7EF9A1DBFE97104;hide' class='hidelink' id='0A11A7EF9A1DBFE97104Hide' name='seachangeHide'></a>
+                        <a href='#04E9308EF61DC0800BDB;show' class='showlink' id='04E9308EF61DC0800BDBShow' name='ph1900Show'></a>
+                        <a href='#04E9308EF61DC0800BDB;hide' class='hidelink' id='04E9308EF61DC0800BDBHide' name='ph1900Hide'></a>
+                        <a href='#07FD9A67D51DC080A13A;show' class='showlink' id='07FD9A67D51DC080A13AShow' name='ph1940Show'></a>
+                        <a href='#07FD9A67D51DC080A13A;hide' class='hidelink' id='07FD9A67D51DC080A13AHide' name='ph1940Hide'></a>
+                        <a href='#0B15BDC3561DC081270B;show' class='showlink' id='0B15BDC3561DC081270BShow' name='ph1980Show'></a>
+                        <a href='#0B15BDC3561DC081270B;hide' class='hidelink' id='0B15BDC3561DC081270BHide' name='ph1980Hide'></a>
+                        <a href='#081F804EDF1DC0819F62;show' class='showlink' id='081F804EDF1DC0819F62Show' name='ph2020Show'></a>
+                        <a href='#081F804EDF1DC0819F62;hide' class='hidelink' id='081F804EDF1DC0819F62Hide' name='ph2020Hide'></a>
+                        <a href='#0BA99BE0D61DC0838FED;show' class='showlink' id='0BA99BE0D61DC0838FEDShow' name='arag1900Show'></a>
+                        <a href='#0BA99BE0D61DC0838FED;hide' class='hidelink' id='0BA99BE0D61DC0838FEDHide' name='arag1900Hide'></a>
+                        <a href='#0FA96B86D71DC083FA71;show' class='showlink' id='0FA96B86D71DC083FA71Show' name='arag1940Show'></a>
+                        <a href='#0FA96B86D71DC083FA71;hide' class='hidelink' id='0FA96B86D71DC083FA71Hide' name='arag1940Hide'></a>
+                        <a href='#008C8FFC261DC084E215;show' class='showlink' id='008C8FFC261DC084E215Show' name='arag1980Show'></a>
+                        <a href='#008C8FFC261DC084E215;hide' class='hidelink' id='008C8FFC261DC084E215Hide' name='arag1980Hide'></a>
+                        <a href='#0691D9EF251DC08660F0;show' class='showlink' id='0691D9EF251DC08660F0Show' name='arag2020Show'></a>
+                        <a href='#0691D9EF251DC08660F0;hide' class='hidelink' id='0691D9EF251DC08660F0Hide' name='arag2020Hide'></a>
+                        <a href='#05390BEF8B1DBFEAD39C;show' class='showlink' id='05390BEF8B1DBFEAD39CShow' name='coralBleachShow'></a>
+                        <a href='#05390BEF8B1DBFEAD39C;hide' class='hidelink' id='05390BEF8B1DBFEAD39CHide' name='coralBleachHide'></a>
+                        <a href='#04FE72A21F1DBFEB401D;show' class='showlink' id='04FE72A21F1DBFEB401DShow' name='stormsShow'></a>
+                        <a href='#04FE72A21F1DBFEB401D;hide' class='hidelink' id='04FE72A21F1DBFEB401DHide' name='stormsHide'></a>
+                        <a href='#0D7B5C56E11DBF25BDD8;show' class='setFolders'></a>
+                        <a href='#0ABF65D72F1DBFE659CA;show' class='setFolders'></a>
+                        <a href='#0FF7EEBAD11DBF262B49;show' class='setFolders'></a>
+                        <a href='#032509803E1DBFE73CCF;show' class='setFolders'></a>
+                        <a href='#0812ABC8CA1DBFE7B567;show' class='setFolders'></a>
+                        <a href='#0C203B520F1DBFE85FB0;show' class='setFolders'></a>
+                        <a href='#0A11A7EF9A1DBFE97104;show' class='setFolders'></a>
+                        <a href='#01376BC04B1DBF26BB20;show' class='setFolders'></a>
+                        <a href='#0E2F3ADD6C1DBFE9FD13;show' class='setFolders'></a>
+                        <a href='#0772F284701DBFEA6E78;show' class='setFolders'></a>
+                        <a href='#05390BEF8B1DBFEAD39C;show' class='setFolders'></a>
+                        <a href='#08745B25231DBF276564;show' class='setFolders'></a>
+                        <a href='#04FE72A21F1DBFEB401D;show' class='setFolders'></a>
+                        <a href='#0A006520EE1DBF27EBAA;show' class='setFolders'></a>
+                    </div>
+                </div>
+            </main>
+        </div>
+        <script>
+            window.onload = function Flyto() {
+                var folderElems = document.getElementsByClassName("setFolders");
+                var hideElems = document.getElementsByClassName("hidelink");
+                for(var i=0; i<folderElems.length;i++) { folderElems[i].click(); }
+                for(var i=0; i<hideElems.length;i++) { hideElems[i].click(); }
+                document.getElementById("05EEA9A8341DC060AED2Show").click();
+                toggleSet();
+            };
+        </script>
+    </body>
+    <script src="https://geteach.com/gti/drp/scripts/oceanproject.js"></script>
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+</html>]]></text>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_15534F8B921DC1352B4F">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0388EBA7651DC1352B4B">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_17FA24E22B1DC1352B4B</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_24FAB6323B1DC1352B4B</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_13F6ED2F871DC3971AB2">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Ocean Drain</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500|Roboto+Slab|Material+Icons" type="text/css" />
+        <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.blue_grey-blue.min.css" />
+        <link rel="stylesheet" href="https://storage.googleapis.com/geoexplorations/scripts/egewexploreRadio0625.css" type="text/css" />
+    </head>
+    <body>
+        <div id="container">
+            <main class="panelMain">
+                <div class="mediaContain">
+                    <div class="slideshow-container">
+<!--First media in Carousel--Best Image Aspect Ratio 3:2 Replace Image Source (src) bellow-->
+                        <div class="mySlides fade" id="od00">
+                            <img class="image"src="https://storage.googleapis.com/geteachkml4/geteachg4g21/oceandrain/OceanDrain000Sm.jpg">
+                            <div class="captionDiv">
+                                <div class="caption" >Ocean Drain (with gray bathymetry)</div>
+                            </div>
+                        </div>
+                        <div class="mySlides fade" id="od70">
+                            <img class="image"src="https://storage.googleapis.com/geteachkml4/geteachg4g21/oceandrain/OceanDrain070Sm.jpg">
+                            <div class="captionDiv">
+                                <div class="caption" >Ocean Drain (with gray bathymetry)</div>
+                            </div>
+                        </div>
+                        <div class="mySlides fade" id="od140">
+                            <img class="image"src="https://storage.googleapis.com/geteachkml4/geteachg4g21/oceandrain/OceanDrain140Sm.jpg">
+                            <div class="captionDiv">
+                                <div class="caption" >Ocean Drain (with gray bathymetry)</div>
+                            </div>
+                        </div>
+                        <div class="mySlides fade" id="od210">
+                            <img class="image"src="https://storage.googleapis.com/geteachkml4/geteachg4g21/oceandrain/OceanDrain210Sm.jpg">
+                            <div class="captionDiv">
+                                <div class="caption" >Ocean Drain (with gray bathymetry)</div>
+                            </div>
+                        </div>
+                        <div class="mySlides fade" id="od280">
+                            <img class="image"src="https://storage.googleapis.com/geteachkml4/geteachg4g21/oceandrain/OceanDrain280Sm.jpg">
+                            <div class="captionDiv">
+                                <div class="caption" >Ocean Drain (with gray bathymetry)</div>
+                            </div>
+                        </div>
+                        <div class="mySlides fade" id="od359">
+                            <img class="image"src="https://storage.googleapis.com/geteachkml4/geteachg4g21/oceandrain/OceanDrain359Sm.jpg">
+                            <div class="captionDiv">
+                                <div class="caption" >Ocean Drain (with gray bathymetry)</div>
+                            </div>
+                        </div>
+                        <a class="prev minusSlidesClass">&#10094;</a>
+                        <a class="next plusSlidesClass">&#10095;</a>
+                    </div>
+                </div>
+                <div class="content" id="content">
+                    <div class="title">
+                        Climate Change Indicators: Oceans
+                    </div>
+                    <div class="description">
+                        <p class="text" style="margin-top:16px;">Covering about 70 percent of the Earth’s surface, the world’s oceans have a two-way relationship with weather and climate. The oceans influence the weather on local to global scales, while changes in climate can fundamentally alter many properties of the oceans.</p>
+						<p class="text"><i>Credit:</i></br>Information: <a href="https://www.epa.gov/climate-indicators/oceans" target="_blank">United States Environmental Protection Agency</a></br>Earth Overlays: <a href="https://sos.noaa.gov/catalog/datasets/ocean-drain-with-gray-bathymetry/" target="_blank">Walter Smith, NOAA</a></p>
+                    </div>
+                 </div>
+<!--Best image height for footer is 24px with a max-width of 145px-->
+<!--If you don't want the footer is it best to delete the html within the logoLeft/LogoRight Div-->
+                <div class="footer">
+                    <div class="logoLeft">
+                        <a href="https://twitter.com/geteach" target="_blank">
+                            <img src="https://storage.googleapis.com/geteachkml4/logogeteachtemp.png" >
+                        </a>
+                    </div>
+                    <div class="layerLinks" id="layerLinks" style="display:none">
+                    </div>
+                    <div class="logoRight" style="display:block">
+                        <a href='#05EEA9A8341DC060AED2;show' class='showlink' id='05EEA9A8341DC060AED2Show' name='oceandrain00Show'></a>
+                        <a href='#05EEA9A8341DC060AED2;hide' class='hidelink drainHide' id='05EEA9A8341DC060AED2Hide' name='oceandrain00Hide'></a>
+                        <a href='#00D4D306B01DC061D80A;show' class='showlink' id='00D4D306B01DC061D80AShow' name='oceandrain70Show'></a>
+                        <a href='#00D4D306B01DC061D80A;hide' class='hidelink drainHide' id='00D4D306B01DC061D80AHide' name='oceandrain70Hide'></a>
+                        <a href='#05B6FE450B1DC062E1EF;show' class='showlink' id='05B6FE450B1DC062E1EFShow' name='oceandrain140Show'></a>
+                        <a href='#05B6FE450B1DC062E1EF;hide' class='hidelink drainHide' id='05B6FE450B1DC062E1EFHide' name='oceandrain140Hide'></a>
+                        <a href='#0F927723AB1DC0639772;show' class='showlink' id='0F927723AB1DC0639772Show' name='oceandrain210Show'></a>
+                        <a href='#0F927723AB1DC0639772;hide' class='hidelink drainHide' id='0F927723AB1DC0639772Hide' name='oceandrain210Hide'></a>
+                        <a href='#0C7CD15EE81DC06460F4;show' class='showlink' id='0C7CD15EE81DC06460F4Show' name='oceandrain280Show'></a>
+                        <a href='#0C7CD15EE81DC06460F4;hide' class='hidelink drainHide' id='0C7CD15EE81DC06460F4Hide' name='oceandrain280Hide'></a>
+                        <a href='#0725766DC31DC0654C5F;show' class='showlink' id='0725766DC31DC0654C5FShow' name='oceandrain359Show'></a>
+                        <a href='#0725766DC31DC0654C5F;hide' class='hidelink drainHide' id='0725766DC31DC0654C5FHide' name='oceandrain359Hide'></a>
+                        <a href='#0596BEE8781DC067AAF5;show' class='showlink' id='0596BEE8781DC067AAF5Show' name='co2flux1900Show'></a>
+                        <a href='#0596BEE8781DC067AAF5;hide' class='hidelink' id='0596BEE8781DC067AAF5Hide' name='co2flux1900Hide'></a>
+                        <a href='#0D8602A8B01DC0686634;show' class='showlink' id='0D8602A8B01DC0686634Show' name='co2flux1940Show'></a>
+                        <a href='#0D8602A8B01DC0686634;hide' class='hidelink' id='0D8602A8B01DC0686634Hide' name='co2flux1940Hide'></a>
+                        <a href='#00D8B2ED301DC068E084;show' class='showlink' id='00D8B2ED301DC068E084Show' name='co2flux1980Show'></a>
+                        <a href='#00D8B2ED301DC068E084;hide' class='hidelink' id='00D8B2ED301DC068E084Hide' name='co2flux1980Hide'></a>
+                        <a href='#0716AABBAC1DC06957AE;show' class='showlink' id='0716AABBAC1DC06957AEShow' name='co2flux2020Show'></a>
+                        <a href='#0716AABBAC1DC06957AE;hide' class='hidelink' id='0716AABBAC1DC06957AEHide' name='co2flux2020Hide'></a>
+                        <a href='#0D544130CD1DC06D013B;show' class='showlink' id='0D544130CD1DC06D013BShow' name='oceanHeat1960Show'></a>
+                        <a href='#0D544130CD1DC06D013B;hide' class='hidelink' id='0D544130CD1DC06D013BHide' name='oceanHeat1960Hide'></a>
+                        <a href='#00708249C31DC06EA3B3;show' class='showlink' id='00708249C31DC06EA3B3Show' name='oceanHeat1980Show'></a>
+                        <a href='#00708249C31DC06EA3B3;hide' class='hidelink' id='00708249C31DC06EA3B3Hide' name='oceanHeat1980Hide'></a>
+                        <a href='#0C24206D4D1DC06F5D92;show' class='showlink' id='0C24206D4D1DC06F5D92Show' name='oceanHeat2000Show'></a>
+                        <a href='#0C24206D4D1DC06F5D92;hide' class='hidelink' id='0C24206D4D1DC06F5D92Hide' name='oceanHeat2000Hide'></a>
+                        <a href='#06BE8162931DC06FFA3D;show' class='showlink' id='06BE8162931DC06FFA3DShow' name='oceanHeat2011Show'></a>
+                        <a href='#06BE8162931DC06FFA3D;hide' class='hidelink' id='06BE8162931DC06FFA3DHide' name='oceanHeat2011Hide'></a>
+                        <a href='#05CAC442C71DC071C9F7;show' class='showlink' id='05CAC442C71DC071C9F7Show' name='sst1985Show'></a>
+                        <a href='#05CAC442C71DC071C9F7;hide' class='hidelink' id='05CAC442C71DC071C9F7Hide' name='sst1985Hide'></a>
+                        <a href='#06BCFBC3DC1DC0727942;show' class='showlink' id='06BCFBC3DC1DC0727942Show' name='sst1995Show'></a>
+                        <a href='#06BCFBC3DC1DC0727942;hide' class='hidelink' id='06BCFBC3DC1DC0727942Hide' name='sst1995Hide'></a>
+                        <a href='#0F64F33B3B1DC07302B8;show' class='showlink' id='0F64F33B3B1DC07302B8Show' name='sst2005Show'></a>
+                        <a href='#0F64F33B3B1DC07302B8;hide' class='hidelink' id='0F64F33B3B1DC07302B8Hide' name='sst2005Hide'></a>
+                        <a href='#03A1ABD0001DC073A969;show' class='showlink' id='03A1ABD0001DC073A969Show' name='sst2015Show'></a>
+                        <a href='#03A1ABD0001DC073A969;hide' class='hidelink' id='03A1ABD0001DC073A969Hide' name='sst2015Hide'></a>
+                        <a href='#0A11A7EF9A1DBFE97104;show' class='showlink' id='0A11A7EF9A1DBFE97104Show' name='seachangeShow'></a>
+                        <a href='#0A11A7EF9A1DBFE97104;hide' class='hidelink' id='0A11A7EF9A1DBFE97104Hide' name='seachangeHide'></a>
+                        <a href='#04E9308EF61DC0800BDB;show' class='showlink' id='04E9308EF61DC0800BDBShow' name='ph1900Show'></a>
+                        <a href='#04E9308EF61DC0800BDB;hide' class='hidelink' id='04E9308EF61DC0800BDBHide' name='ph1900Hide'></a>
+                        <a href='#07FD9A67D51DC080A13A;show' class='showlink' id='07FD9A67D51DC080A13AShow' name='ph1940Show'></a>
+                        <a href='#07FD9A67D51DC080A13A;hide' class='hidelink' id='07FD9A67D51DC080A13AHide' name='ph1940Hide'></a>
+                        <a href='#0B15BDC3561DC081270B;show' class='showlink' id='0B15BDC3561DC081270BShow' name='ph1980Show'></a>
+                        <a href='#0B15BDC3561DC081270B;hide' class='hidelink' id='0B15BDC3561DC081270BHide' name='ph1980Hide'></a>
+                        <a href='#081F804EDF1DC0819F62;show' class='showlink' id='081F804EDF1DC0819F62Show' name='ph2020Show'></a>
+                        <a href='#081F804EDF1DC0819F62;hide' class='hidelink' id='081F804EDF1DC0819F62Hide' name='ph2020Hide'></a>
+                        <a href='#0BA99BE0D61DC0838FED;show' class='showlink' id='0BA99BE0D61DC0838FEDShow' name='arag1900Show'></a>
+                        <a href='#0BA99BE0D61DC0838FED;hide' class='hidelink' id='0BA99BE0D61DC0838FEDHide' name='arag1900Hide'></a>
+                        <a href='#0FA96B86D71DC083FA71;show' class='showlink' id='0FA96B86D71DC083FA71Show' name='arag1940Show'></a>
+                        <a href='#0FA96B86D71DC083FA71;hide' class='hidelink' id='0FA96B86D71DC083FA71Hide' name='arag1940Hide'></a>
+                        <a href='#008C8FFC261DC084E215;show' class='showlink' id='008C8FFC261DC084E215Show' name='arag1980Show'></a>
+                        <a href='#008C8FFC261DC084E215;hide' class='hidelink' id='008C8FFC261DC084E215Hide' name='arag1980Hide'></a>
+                        <a href='#0691D9EF251DC08660F0;show' class='showlink' id='0691D9EF251DC08660F0Show' name='arag2020Show'></a>
+                        <a href='#0691D9EF251DC08660F0;hide' class='hidelink' id='0691D9EF251DC08660F0Hide' name='arag2020Hide'></a>
+                        <a href='#05390BEF8B1DBFEAD39C;show' class='showlink' id='05390BEF8B1DBFEAD39CShow' name='coralBleachShow'></a>
+                        <a href='#05390BEF8B1DBFEAD39C;hide' class='hidelink' id='05390BEF8B1DBFEAD39CHide' name='coralBleachHide'></a>
+                        <a href='#04FE72A21F1DBFEB401D;show' class='showlink' id='04FE72A21F1DBFEB401DShow' name='stormsShow'></a>
+                        <a href='#04FE72A21F1DBFEB401D;hide' class='hidelink' id='04FE72A21F1DBFEB401DHide' name='stormsHide'></a>
+                        <a href='#0D7B5C56E11DBF25BDD8;show' class='setFolders'></a>
+                        <a href='#0ABF65D72F1DBFE659CA;show' class='setFolders'></a>
+                        <a href='#0FF7EEBAD11DBF262B49;show' class='setFolders'></a>
+                        <a href='#032509803E1DBFE73CCF;show' class='setFolders'></a>
+                        <a href='#0812ABC8CA1DBFE7B567;show' class='setFolders'></a>
+                        <a href='#0C203B520F1DBFE85FB0;show' class='setFolders'></a>
+                        <a href='#0A11A7EF9A1DBFE97104;show' class='setFolders'></a>
+                        <a href='#01376BC04B1DBF26BB20;show' class='setFolders'></a>
+                        <a href='#0E2F3ADD6C1DBFE9FD13;show' class='setFolders'></a>
+                        <a href='#0772F284701DBFEA6E78;show' class='setFolders'></a>
+                        <a href='#05390BEF8B1DBFEAD39C;show' class='setFolders'></a>
+                        <a href='#08745B25231DBF276564;show' class='setFolders'></a>
+                        <a href='#04FE72A21F1DBFEB401D;show' class='setFolders'></a>
+                        <a href='#0A006520EE1DBF27EBAA;show' class='setFolders'></a>
+                    </div>
+                </div>
+            </main>
+        </div>
+        <script>
+            window.onload = function Flyto() {
+                var folderElems = document.getElementsByClassName("setFolders");
+                var hideElems = document.getElementsByClassName("hidelink");
+                for(var i=0; i<folderElems.length;i++) { folderElems[i].click(); }
+                for(var i=0; i<hideElems.length;i++) { hideElems[i].click(); }
+                document.getElementById("05EEA9A8341DC060AED2Show").click();
+                toggleSet();
+            };
+        </script>
+    </body>
+    <script src="https://geteach.com/gti/drp/scripts/oceanproject.js"></script>
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+</html>]]></text>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<Folder id="0D7B5C56E11DBF25BDD8">
+		<name>Introduction</name>
+		<styleUrl>#__managed_style_0CF6F47C151DC3971AB2</styleUrl>
+		<Folder id="0ABF65D72F1DBFE659CA">
+			<name>Ocean Drain</name>
+			<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+			<GroundOverlay id="05EEA9A8341DC060AED2">
+				<name>Ocean Drain 00</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/oceandrain/OceanDrain00/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+			<GroundOverlay id="00D4D306B01DC061D80A">
+				<name>Ocean Drain 70</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/oceandrain/OceanDrain70/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+			<GroundOverlay id="05B6FE450B1DC062E1EF">
+				<name>ocean Drain 140</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/oceandrain/OceanDrain140/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+			<GroundOverlay id="0F927723AB1DC0639772">
+				<name>Ocean Drain 210</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/oceandrain/OceanDrain210/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+			<GroundOverlay id="0C7CD15EE81DC06460F4">
+				<name>Ocean Drain 280</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/oceandrain/OceanDrain280/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+			<GroundOverlay id="0725766DC31DC0654C5F">
+				<name>Ocean Drain 359</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/oceandrain/OceanDrain359/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder id="0FF7EEBAD11DBF262B49">
+		<name>Why does in matter?</name>
+		<description><![CDATA[<div>Placeholder</div>]]></description>
+		<styleUrl>#__managed_style_0B4879293C1DC1352B48</styleUrl>
+		<Folder id="08534D29011DC42522D8">
+			<name>Aerosol Earth</name>
+			<styleUrl>#__managed_style_0346A013C21DC42522DA</styleUrl>
+			<GroundOverlay id="031A3AC6051DC4237116">
+				<name>Aerosol Earth - 8/23/2018</name>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<LatLonBox>
+					<north>85</north>
+					<south>-85</south>
+					<east>180</east>
+					<west>-180</west>
+				</LatLonBox>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachclimate/atmosphere/$[level]/$[x]/$[y].png</href>
+					</Link>
+					<gx:minLevel>0</gx:minLevel>
+					<gx:maxLevel>22</gx:maxLevel>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+		</Folder>
+		<Folder id="0812ABC8CA1DBFE7B567">
+			<name>Ocean Heat Content - Yearly Difference from Average</name>
+			<description><![CDATA[<div>Placeholder<br></div>]]></description>
+			<styleUrl>#__managed_style_0C342EB5791DC1352B4C</styleUrl>
+			<GroundOverlay id="0D544130CD1DC06D013B">
+				<name>Ocean Heat Content - 1960</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/oceanheat/heatContent1960/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+			<GroundOverlay id="00708249C31DC06EA3B3">
+				<name>Ocean Heat Content - 1980</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/oceanheat/heatContent1980/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+			<GroundOverlay id="0C24206D4D1DC06F5D92">
+				<name>Ocean Heat Content - 2000</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/oceanheat/heatContent2000/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+			<GroundOverlay id="06BE8162931DC06FFA3D">
+				<name>Ocean Heat Content - 2011</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/oceanheat/heatContent2011/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+		</Folder>
+		<Folder id="0C203B520F1DBFE85FB0">
+			<name>Sea Surface Temperature</name>
+			<description><![CDATA[<div>Place Holder</div>]]></description>
+			<styleUrl>#__managed_style_0B4879293C1DC1352B48</styleUrl>
+			<GroundOverlay id="05CAC442C71DC071C9F7">
+				<name>Sea Surface Temperature - 1985</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/seasurface/surf1985/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+			<GroundOverlay id="06BCFBC3DC1DC0727942">
+				<name>Sea Surface Temperature - 1995</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/seasurface/surf1995/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+			<GroundOverlay id="0F64F33B3B1DC07302B8">
+				<name>Sea Surface Temperature - 2005</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/seasurface/surf2005/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+			<GroundOverlay id="03A1ABD0001DC073A969">
+				<name>Sea Surface Temperature - 2015</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/seasurface/surf2015/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+		</Folder>
+		<Folder id="0A11A7EF9A1DBFE97104">
+			<name>Sea Level</name>
+			<description><![CDATA[<div>place holder</div>]]></description>
+			<styleUrl>#__managed_style_0B4879293C1DC1352B48</styleUrl>
+			<GroundOverlay id="01016629121DC075CCF7">
+				<name>Sea Level Change</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/sealevel/seaChange/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder id="01376BC04B1DBF26BB20">
+		<name>Why does it matter?</name>
+		<description><![CDATA[<div>Place holder</div>]]></description>
+		<styleUrl>#__managed_style_0B4879293C1DC1352B48</styleUrl>
+		<Folder id="032509803E1DBFE73CCF">
+			<name>CO2 Flux</name>
+			<description><![CDATA[<div>placeholder</div>]]></description>
+			<styleUrl>#__managed_style_0B4879293C1DC1352B48</styleUrl>
+			<GroundOverlay id="0596BEE8781DC067AAF5">
+				<name>co2Flux1900</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/co2flux/co2Flux1900/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+			<GroundOverlay id="0D8602A8B01DC0686634">
+				<name>co2Flux1940</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/co2flux/co2Flux1940/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+			<GroundOverlay id="00D8B2ED301DC068E084">
+				<name>co2Flux1980</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/co2flux/co2Flux1980/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+			<GroundOverlay id="0716AABBAC1DC06957AE">
+				<name>co2Flux2020</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/co2flux/co2Flux2020/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+		</Folder>
+		<Folder id="0E2F3ADD6C1DBFE9FD13">
+			<name>Ocean PH</name>
+			<description><![CDATA[<div>place holder</div>]]></description>
+			<styleUrl>#__managed_style_0B4879293C1DC1352B48</styleUrl>
+			<GroundOverlay id="04E9308EF61DC0800BDB">
+				<name>ph - 1900</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/ph/ph1900/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+			<GroundOverlay id="07FD9A67D51DC080A13A">
+				<name>ph - 1940</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/ph/ph1940/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+			<GroundOverlay id="0B15BDC3561DC081270B">
+				<name>ph - 1980</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/ph/ph1980/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+			<GroundOverlay id="081F804EDF1DC0819F62">
+				<name>ph - 2020</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/ph/ph2020/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+		</Folder>
+		<Folder id="0772F284701DBFEA6E78">
+			<name>Aragonite Saturation</name>
+			<description><![CDATA[<div>placeholder<br></div>]]></description>
+			<styleUrl>#__managed_style_0C342EB5791DC1352B4C</styleUrl>
+			<GroundOverlay id="0BA99BE0D61DC0838FED">
+				<name>Aragonite Saturation - 1900</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/aarg/aarg1900/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+			<GroundOverlay id="0FA96B86D71DC083FA71">
+				<name>Aragonite Saturation - 1940</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/aarg/aarg1940/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+			<GroundOverlay id="008C8FFC261DC084E215">
+				<name>Aragonite Saturation - 1980</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/aarg/aarg1980/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+			<GroundOverlay id="0691D9EF251DC08660F0">
+				<name>Aragonite Saturation - 2020</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/aarg/aarg2020/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+		</Folder>
+		<Folder id="05390BEF8B1DBFEAD39C">
+			<name>Coral Reef</name>
+			<description><![CDATA[<div>placeholder</div>]]></description>
+			<styleUrl>#__managed_style_0B4879293C1DC1352B48</styleUrl>
+			<GroundOverlay id="043F58B5001DC088D978">
+				<name>Coral Bleaching (7 Day) - 10.10.21</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/bleaching/bleaching101021/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder id="08745B25231DBF276564">
+		<name>Future Trends</name>
+		<styleUrl>#__managed_style_056F81A1771DC1352B4F</styleUrl>
+		<Folder id="04FE72A21F1DBFEB401D">
+			<name>storms</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<styleUrl>#__managed_style_0FC7FDDA9F1DC1352B50</styleUrl>
+			<GroundOverlay id="0D97FDA3F11DC08A57A9">
+				<name>Hurricanes 1950 - 2020</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_0388EBA7651DC1352B4B</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/geteachg4g21/storms/storms/$[level]/$[x]/$[y].png</href>
+					</Link>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder id="0A006520EE1DBF27EBAA">
+		<name>Credits</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_056F81A1771DC1352B4F</styleUrl>
+	</Folder>
+</Document>
+</kml>
